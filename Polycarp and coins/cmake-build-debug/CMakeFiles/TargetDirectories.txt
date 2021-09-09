@@ -1,0 +1,3 @@
+D:/programming/problem solving/Polycarp and coins/cmake-build-debug/CMakeFiles/Polycarp_and_coins.dir
+D:/programming/problem solving/Polycarp and coins/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programming/problem solving/Polycarp and coins/cmake-build-debug/CMakeFiles/rebuild_cache.dir

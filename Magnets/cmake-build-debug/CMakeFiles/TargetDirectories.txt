@@ -1,0 +1,3 @@
+E:/programming/problem solving/Magnets/cmake-build-debug/CMakeFiles/Magnets.dir
+E:/programming/problem solving/Magnets/cmake-build-debug/CMakeFiles/edit_cache.dir
+E:/programming/problem solving/Magnets/cmake-build-debug/CMakeFiles/rebuild_cache.dir

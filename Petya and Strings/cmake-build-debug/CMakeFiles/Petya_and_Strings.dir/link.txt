@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Petya_and_Strings.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Petya_and_Strings.dir/objects.a @CMakeFiles\Petya_and_Strings.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Petya_and_Strings.dir/objects.a -Wl,--no-whole-archive  -o Petya_and_Strings.exe -Wl,--out-implib,libPetya_and_Strings.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Petya_and_Strings.dir\linklibs.rsp

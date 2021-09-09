@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\_Helpful_Maths.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\_Helpful_Maths.dir/objects.a @CMakeFiles\_Helpful_Maths.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\_Helpful_Maths.dir/objects.a -Wl,--no-whole-archive -o _Helpful_Maths.exe -Wl,--out-implib,lib_Helpful_Maths.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\_Helpful_Maths.dir\linklibs.rsp

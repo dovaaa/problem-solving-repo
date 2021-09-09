@@ -1,0 +1,3 @@
+D:/programming/problem solving/Petya and Strings/cmake-build-debug/CMakeFiles/Petya_and_Strings.dir
+D:/programming/problem solving/Petya and Strings/cmake-build-debug/CMakeFiles/edit_cache.dir
+D:/programming/problem solving/Petya and Strings/cmake-build-debug/CMakeFiles/rebuild_cache.dir

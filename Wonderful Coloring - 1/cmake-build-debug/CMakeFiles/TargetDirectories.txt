@@ -1,0 +1,3 @@
+D:/programming/problem solving/Wonderful Coloring - 1/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+D:/programming/problem solving/Wonderful Coloring - 1/cmake-build-debug/CMakeFiles/Wonderful_Coloring___1.dir
+D:/programming/problem solving/Wonderful Coloring - 1/cmake-build-debug/CMakeFiles/edit_cache.dir

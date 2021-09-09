@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2021.2\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Boy_or_Girl.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Boy_or_Girl.dir/objects.a @CMakeFiles\Boy_or_Girl.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g -Wl,--whole-archive CMakeFiles\Boy_or_Girl.dir/objects.a -Wl,--no-whole-archive -o Boy_or_Girl.exe -Wl,--out-implib,libBoy_or_Girl.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Boy_or_Girl.dir\linklibs.rsp

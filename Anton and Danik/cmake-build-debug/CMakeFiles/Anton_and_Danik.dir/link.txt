@@ -1,0 +1,3 @@
+"C:\Program Files\JetBrains\CLion 2020.2.1\bin\cmake\win\bin\cmake.exe" -E rm -f CMakeFiles\Anton_and_Danik.dir/objects.a
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\ar.exe cr CMakeFiles\Anton_and_Danik.dir/objects.a @CMakeFiles\Anton_and_Danik.dir\objects1.rsp
+C:\PROGRA~1\MINGW-~1\X86_64~1.0-P\mingw64\bin\G__~1.EXE -g   -Wl,--whole-archive CMakeFiles\Anton_and_Danik.dir/objects.a -Wl,--no-whole-archive  -o Anton_and_Danik.exe -Wl,--out-implib,libAnton_and_Danik.dll.a -Wl,--major-image-version,0,--minor-image-version,0 @CMakeFiles\Anton_and_Danik.dir\linklibs.rsp
